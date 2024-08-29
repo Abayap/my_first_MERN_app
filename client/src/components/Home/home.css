@@ -1,0 +1,8 @@
+.com-div{
+    height: 100vh;
+    display: grid;
+    place-items:center;
+    background-color: rgb(255, 255, 255);
+    background-color: rgb(62, 62, 143);
+    color: rgb(0, 0, 0);
+}

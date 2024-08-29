@@ -1,0 +1,45 @@
+.navbar {
+    background-color: #333;
+    overflow: hidden;
+}
+
+.navbar-menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar-menu li {
+    float: left;
+}
+
+.navbar-item {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+.navbar-item:hover {
+    background-color: #575757;
+}
+
+.jb-prt-btns{
+    margin-left: 150px;
+}
+
+.lgn-btn{
+    padding: 10px 20px 10px 20px;
+    background-color: blue;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 10px;
+}
+
+.lgn-btn:hover{
+    background-color: rgb(0, 0, 71);
+}
